@@ -1,0 +1,14 @@
+changelog:
+  categories:
+    - title: 破壊的変更 🛠
+      labels:
+        - 破壊的変更
+    - title: 機能追加 🎉
+      labels:
+        - 機能追加
+    - title: バグ修正 🐛
+      labels:
+        - バグ修正
+    - title: Other Changes
+      labels:
+        - "*"
