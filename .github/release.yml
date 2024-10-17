@@ -9,6 +9,6 @@ changelog:
     - title: バグ修正 🐛
       labels:
         - バグ修正
-    - title: Other Changes
+    - title: その他 📦
       labels:
         - "*"
